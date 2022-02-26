@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @G-Leite
 - 👀 I’m interested in everything because I'm new in this world.
-- 🌱 I’m currently learning programming logic and algorithms.
+- 🌱 I’m currently studing CC50. 
 - 📫 Discord: Verrückt #1826.
 
 <!---
