@@ -1,8 +1,8 @@
 ### Olá! 👋
 
-- 🌱 Estudando ADS
-- 📫 Discord: Verrückt#1826
-- ⚡ Fun fact: Eu não queria ser programador até Janeiro de 2022
+- 🌱 Estudando ADS pela UniCesumar.
+- :snake: Estudando Python pela Alura.
+- 🎩 Estudando Segurança da Informação pelo Técnicas de Invasão. 
 
 ##
 
