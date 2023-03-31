@@ -3,6 +3,7 @@
 - 🌱 Estudando ADS pela UniCesumar.
 - :snake: Estudando Python pela Alura.
 - 🎩 Estudando Segurança da Informação pelo Técnicas de Invasão e Alura.
+- :penguin: Estudando Linux.
 
 ##
 
