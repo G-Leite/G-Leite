@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 IT Enjoyer 🗿<br><br>🌱 Learning Pentest and Java 📈<br><br>💭 Every journey begins with a single step ⚡<br><br><br>
+🔭 Cybersecurity and OSINT 🗿<br><br>🌱 Learning Web Pentest  📈<br><br>💭 Every journey begins with a single step ⚡<br><br><br>
 
 
 # 💻 Tech Stack:
