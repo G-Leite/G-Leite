@@ -6,7 +6,8 @@ Welcome to my GitHub profile! I'm a professional transitioning into **Quality As
 ---
 
 ### 🛠️ Tech Stack & Tools
-* **Languages & Testing:** Python, JavaScript, Playwright, Cypress, Postman, Robot Framework, BDD (Gherkin).
+* **Languages:** Python
+* **Learning:** Playwright, Cypress, Postman, Robot Framework, BDD (Gherkin).
 * **Process & ITSM:** Jira (Scrum/Kanban), GLPI, Git, GitHub Actions, CI/CD.
 * **Infrastructure:** Linux (Ubuntu Server), Docker, Samba, Troubleshooting & Networking.
 
